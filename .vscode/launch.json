@@ -1,0 +1,54 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "product",
+            "cwd": "Users\\User\\product",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "product (profile mode)",
+            "cwd": "Users\\User\\product",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "product (release mode)",
+            "cwd": "Users\\User\\product",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "product",
+            "cwd": "$Recycle.Bin\\S-1-5-21-443474688-2487562651-254245777-1000\\$RON3GO1\\product",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "product (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-443474688-2487562651-254245777-1000\\$RON3GO1\\product",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "product (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-443474688-2487562651-254245777-1000\\$RON3GO1\\product",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter",
+            "cwd": "Users\\User\\.vscode\\flutter",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
